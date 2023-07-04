@@ -61,7 +61,7 @@
 <img title="Temi Robo" align="left" alt="Temi Robo" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/67447840/220040155-de098efa-a4c3-42d3-ae99-724e09360704.png" /><br /><br />
 
 ### 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LyleRowe&show_icons=true&locale=en&layout=compact&theme=onedark" alt="LyleRowe" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kingpig-dev&show_icons=true&locale=en&layout=compact&theme=onedark" alt="kingpig-dev" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=LyleRowe&show_icons=true&locale=en&theme=onedark" alt="LyleRowe" /></p>
 
