@@ -61,11 +61,11 @@
 <img title="Temi Robo" align="left" alt="Temi Robo" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/67447840/220040155-de098efa-a4c3-42d3-ae99-724e09360704.png" /><br /><br />
 
 ### 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mightyeagle329&show_icons=true&locale=en&layout=compact&theme=onedark" alt="mightyeagle329" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LyleRowe&show_icons=true&locale=en&layout=compact&theme=onedark" alt="LyleRowe" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mightyeagle329&show_icons=true&locale=en&theme=onedark" alt="mightyeagle329" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=LyleRowe&show_icons=true&locale=en&theme=onedark" alt="LyleRowe" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mightyeagle329&theme=onedark" alt="mightyeagle329" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LyleRowe&theme=onedark" alt="LyleRowe" /></p>
 
 ### 
-<img src="https://github-profile-trophy.vercel.app/?username=mightyeagle329&theme=gruvbox&title=Stars,Followers,Commits,PullRequest,Issues,Repositories" />
+<img src="https://github-profile-trophy.vercel.app/?username=LyleRowe&theme=gruvbox&title=Stars,Followers,Commits,PullRequest,Issues,Repositories" />
